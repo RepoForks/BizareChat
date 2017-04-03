@@ -1,5 +1,18 @@
 # Android Agilie Internship
 
+Hey there, a couple of months ago (end of 2016) we’ve announced an [internship program for Android developers](https://agilie.com/ru/internship). 
+During November 2016 we’ve gotten hundreds of applications and selected 12 young and smart students. 
+Guys have worked hardly a few months to contribute a chat Android app. We split them into 4 teams with 3 developers on each team. 
+
+The process included a couple of local meetings and a lot of remote consulting chats where we discussed the product requirements, an architecture, list of libraries and other technical terms. 
+
+By the end of the internship we’ve made a local event to prove own projects, review the results and select a winner. As one of the credits we decided to publish a winning project on a Github. 
+
+So let us intro **BizareChat**! 
+
+As a general technical requirements we’ve agreed to develop an Android chat app. 
+We provided the functional requirements and general recommendations on UI/UX.
+
 ### Project description
 
 Bizare Android chat app has the most common features like: 
